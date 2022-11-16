@@ -1,4 +1,4 @@
-public class TD11 {
+public class exemple1 {
     public static void main(String[] args) {
         int[] tab = { 1, 2, 3, 4, 5 };
         System.out.println("taille: " + tab.length);
